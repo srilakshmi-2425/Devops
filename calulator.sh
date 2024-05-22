@@ -6,3 +6,7 @@
 
 x=1+2
 
+# Substraction Function
+
+y=4-2
+
